@@ -1,0 +1,10 @@
+expt 10 stream 1 summary
+Correct starts: 30
+Incorrect starts: 6
+missed starts: 8
+
+Correct ends: 30
+incorrect ends: 6
+missed ends: 8
+
+Note that this data is much more consistent than with trial 2
