@@ -1,0 +1,13 @@
+summary for expt 2 stream 1
+
+Correct Starts: 21
+Incorrect starts: 19
+Missed Starts: 22
+
+Correct ends: 34
+Incorrect Ends: 6
+Missed Ends: 9
+
+
+
+Problem w this trial: the markers actually seem to have gotten mixed up. Some of them do not have a reasonably partnered corresponding start or stop. It seems that ocasionally they get flipped, and other times one is in a random place, and the other is the right spot. 
